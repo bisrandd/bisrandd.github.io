@@ -3,12 +3,34 @@
 
   
   <url>
+    <loc>https://bisrandd.github.io/#about</loc>
+    <lastmod>2017-07-14T14:19:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bisrandd.github.io/#firstpost</loc>
+    <lastmod>2017-07-14T14:19:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bisrandd.github.io/#home</loc>
+    <lastmod>2017-07-14T14:19:43+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://bisrandd.github.io/#</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bisrandd.github.io/#</loc>
+    <lastmod>2017-07-14T14:19:43+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bisrandd.github.io/#</loc>
+    <lastmod>2017-07-14T14:19:43+00:00</lastmod>
     <priority>0</priority>
   </url>
   

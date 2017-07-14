@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://bisrandd.github.io/sitemap.xml
+Sitemap: https://bisrandd.github.io/sitemap.xml
